@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.egg-info/
+data/
+output/
+task_plan.md
+findings.md
+progress.md
+docs/superpowers/
+.DS_Store
