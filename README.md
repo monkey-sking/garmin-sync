@@ -1,7 +1,7 @@
 # garmin-sync
 
 <!-- badges:start -->
-[![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](https://github.com/monkey-sking/garmin-sync/blob/main/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/garmin-sync?style=flat-square)](https://github.com/monkey-sking/garmin-sync/commits/main) [![Python](https://img.shields.io/github/languages/top/monkey-sking/garmin-sync?style=flat-square)](https://github.com/monkey-sking/garmin-sync/search?l=Python) [![views](https://hits.sh/github.com/monkey-sking/garmin-sync.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/garmin-sync)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](https://github.com/monkey-sking/garmin-sync/blob/main/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/garmin-sync?style=flat-square)](https://github.com/monkey-sking/garmin-sync/commits/main) [![Python](https://img.shields.io/github/languages/top/monkey-sking/garmin-sync?style=flat-square)](https://github.com/monkey-sking/garmin-sync/search?l=Python) [![views](https://hits.sh/github.com/monkey-sking/garmin-sync.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/garmin-sync) [![Stars](https://img.shields.io/github/stars/monkey-sking/garmin-sync?style=flat-square)](https://github.com/monkey-sking/garmin-sync/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/garmin-sync?style=flat-square)](https://github.com/monkey-sking/garmin-sync/network/members)
 <!-- badges:end -->
 
 用于批量上传 `.fit` 和 `.gpx` 运动文件到 Garmin Connect 中国区或国际区的本地 CLI 工具，并可选支持个人 OneDrive 网页下载。
